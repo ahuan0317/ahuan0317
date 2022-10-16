@@ -2,4 +2,4 @@
 - 👀 I’m interested in code
 - 🌱 I’m currently learning code
 - 💞️ I’m looking to collaborate on project code
-- 📫 How to reach me via wechat
+- 📫 How to reach me via wechat233
