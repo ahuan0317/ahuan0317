@@ -13,7 +13,7 @@
 
 - 💻 &nbsp; Java | PHP | Node
 - 🌐 &nbsp; JavaScript | TypeScript | Bootstrap | Element-UI | AntDesign
-- 🛢 &nbsp; MySQL | MongoDB
+- 🛢 &nbsp;  MySQL | MongoDB
 - 🔧 &nbsp; Visual Studio code | IntelliJ IDEA | Git
 - 🖥 &nbsp; Illustrator | Photoshop
 
