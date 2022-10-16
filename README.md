@@ -15,8 +15,3 @@
 - 🛢 &nbsp;  MySQL | MongoDB
 - 🔧 &nbsp; Visual Studio code | IntelliJ IDEA | Git
 - 🖥 &nbsp; Illustrator | Photoshop
-
-
-</br>
-
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/93d878bbc1e500587c730fc2b906dbd763123540822f60207fd9b0ca5ccc2279/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6c6f6e6779616e6a69616e67267468656d653d746f6b796f6e69676874"><img src="https://camo.githubusercontent.com/93d878bbc1e500587c730fc2b906dbd763123540822f60207fd9b0ca5ccc2279/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6c6f6e6779616e6a69616e67267468656d653d746f6b796f6e69676874" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=longyanjiang&amp;theme=tokyonight" style="width: 200px;" align="right"></a>
