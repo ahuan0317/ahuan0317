@@ -10,8 +10,8 @@
 
 <h3>🛠 技术栈</h3>
 
-- 💻 &nbsp; Java | PHP | Node
-- 🌐 &nbsp; JavaScript | TypeScript | Bootstrap | Element-UI | AntDesign
+- 💻 &nbsp; Java | Node
+- 🌐 &nbsp; JavaScript | TypeScript | ArcoDesign | AntDesign | varlet
 - 🛢 &nbsp;  MySQL | MongoDB
 - 🔧 &nbsp; Visual Studio code | IntelliJ IDEA | Git
 - 🖥 &nbsp; Illustrator | Photoshop
